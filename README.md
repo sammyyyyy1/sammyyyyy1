@@ -5,7 +5,7 @@ My name is Samuel Zheng, and I'm a Computer Science student at the University of
 ## About Me
 
 I'm an enthusiastic learner and aspiring software developer. In my free time, I enjoy playing the piano and reading manga. Currently, I'm working on a startup business with a couple of my friends. Read more about it here:
-### printbnb (https://github.com/JonZ21/printbnb)
+### printbnb (https://printbnb.ca)
 
 
 ## Recent Projects
