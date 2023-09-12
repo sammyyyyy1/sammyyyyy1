@@ -10,6 +10,10 @@ I'm an enthusiastic learner and aspiring software developer. In my free time, I 
 
 ## Recent Projects
 
+### QuizCaster (https://github.com/MoroccanGemsbok/QuizCaster)
+
+As students, we know all too well the struggle of having to study for our classes by tackling a seemingly never-ending mountain of textbooks and other course notes. QuizCaster is an innovative and intelligent personal quiz assistant that transforms static sources like PDFs, links, and YouTube videos into dynamic learning experiences.
+
 ### GPT George (https://github.com/wusteven815/gpt-george)
 
 Project made at CalHacks 2023. A twist on the modern voice assistant — George can hear and analyze emotions in your voice and will respond to you accordingly. Powered by GPT-4 and has all the features of other modern voice assistants like Siri and Cortana.
