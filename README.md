@@ -10,6 +10,10 @@ I'm an enthusiastic learner and aspiring software developer. In my free time, I 
 
 ## Recent Projects
 
+### MotiSpectra (https://github.com/sammyyyyy1/MotiSpectra)
+
+Winner at ConUHacks 2024. Studies have shown that the majority of communication is not verbal - body language and facial expression matter too. However, as online conferencing has taken the world by storm, a lot of our communication has been lost through the screen. MotiSpectra is a tool to help bring that back, using computer vision and machine learning to give you, the presenter, an analysis of your audience's engagement and attentiveness. This tool can seamlessly integrate into conferencing platforms, such as Zoom, Google Meet, and MS Teams.
+
 ### QuizCaster (https://github.com/sammyyyyy1/QuizCaster)
 
 As students, we know all too well the struggle of having to study for our classes by tackling a seemingly never-ending mountain of textbooks and other course notes. QuizCaster is an innovative and intelligent personal quiz assistant that transforms static sources like PDFs, links, and YouTube videos into dynamic learning experiences.
